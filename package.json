@@ -1,0 +1,17 @@
+{
+  "name": "job-radar",
+  "version": "1.0.0",
+  "description": "Daily job scraper + fit-scorer for Vaibhav Jain's job search, built on Apify actors.",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.3",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

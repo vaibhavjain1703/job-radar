@@ -1,0 +1,34 @@
+name: Daily Job Radar Refresh
+
+on:
+  schedule:
+    # 08:00 IST daily = 02:30 UTC. Adjust if you want a different time.
+    - cron: "30 2 * * *"
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab too
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run job radar
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          NOTIFY_WEBHOOK_URL: ${{ secrets.NOTIFY_WEBHOOK_URL }}
+        run: npm start
+
+      - name: Commit updated output + dashboard
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "actions@github.com"
+          git add output/ docs/
+          git diff --quiet --cached || git commit -m "Daily job radar refresh: $(date -u +%Y-%m-%d)"
+          git push
