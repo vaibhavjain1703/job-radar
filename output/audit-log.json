@@ -1,5 +1,29 @@
 [
   {
+    "company": "Azuga, Inc.",
+    "title": "Fullstack Python Engineer",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Deloitte",
+    "title": "Full Stack Developer",
+    "pass": true,
+    "reason": "known large company"
+  },
+  {
+    "company": "Infosys",
+    "title": "Java full stack, React Developer",
+    "pass": true,
+    "reason": "known large company"
+  },
+  {
+    "company": "Luxoft",
+    "title": "Senior Full Stack Developer (Angular, Node)",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
     "company": "JMD Technologies Inc.",
     "title": "java full stack developer",
     "pass": false,
@@ -18,14 +42,8 @@
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "Synechron",
-    "title": ".NET Full Stack Engineer – C#, React/Angular, AWS & CI/CD",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "CGI",
-    "title": "Senior Software Engineer - Java full stack Developer - 6 to 9 years exp",
+    "company": "Bridgestone Americas",
+    "title": "Senior System Engineer(Fullstack Developer)",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
@@ -42,38 +60,8 @@
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "Luxoft",
-    "title": "Senior Full Stack Developer (Angular, Node)",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
     "company": "Eurofins",
     "title": "Fullstack Developer (.Net+Angular)",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Tata Consultancy Services",
-    "title": "Java Full Stack Developer+ Angular",
-    "pass": true,
-    "reason": "known large company"
-  },
-  {
-    "company": "Infosys",
-    "title": ".Net Full Stack Gen AI Developer",
-    "pass": true,
-    "reason": "known large company"
-  },
-  {
-    "company": "CGI",
-    "title": "Senior Software Engineer - Dot Net Full stack Developer",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Artech L.L.C.",
-    "title": "Full Stack Engineer (MERN developer)",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
@@ -82,6 +70,12 @@
     "title": "Full Stack Developer",
     "pass": true,
     "reason": "known large company"
+  },
+  {
+    "company": "Zealant Consulting Group",
+    "title": "Software Engineer - Fullstack",
+    "pass": false,
+    "reason": "companySizeRaw=19"
   },
   {
     "company": "VRIZE",
@@ -102,10 +96,10 @@
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "AXA Global Business Services (AXA GBS)",
-    "title": "Full Stack Engineer",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
+    "company": "4flow",
+    "title": "(Senior) Software Engineer (Fullstack)",
+    "pass": false,
+    "reason": "startup signal term: \"early stage\""
   },
   {
     "company": "InnovKaro Solutions",
@@ -114,10 +108,16 @@
     "reason": "startup signal term: \"growing startup\""
   },
   {
-    "company": "4flow",
-    "title": "(Senior) Software Engineer (Fullstack)",
-    "pass": false,
-    "reason": "startup signal term: \"early stage\""
+    "company": "AXA Global Business Services (AXA GBS)",
+    "title": "Full Stack Engineer",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "CGI",
+    "title": "Senior Software Engineer - Dot Net Full stack Developer",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
   },
   {
     "company": "Unknown company",
@@ -133,31 +133,25 @@
   },
   {
     "company": "Unknown company",
-    "title": "Full-Stack developer",
+    "title": "Blockchain Full stack developer",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Unknown company",
+    "title": "AI-First Full Stack Developer",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Unknown company",
+    "title": "Urgent Hiring - Full Stack Developer - Multiple Openings",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
   {
     "company": "Unknown company",
     "title": "Node Full Stack Developer",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Unknown company",
-    "title": "Full Stack Developer - AI Best Practices",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Unknown company",
-    "title": "AWS Full Stack Developer",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Unknown company",
-    "title": "AI FULL STACK Developer",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
@@ -175,7 +169,7 @@
   },
   {
     "company": "Unknown company",
-    "title": "Full stack Developer (ReactJS+Node JS) Saturday 5th Sept,26",
+    "title": "Facets Full Stack Developer - 7+ Years - Multiple locations",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
@@ -186,26 +180,26 @@
     "reason": "no exclusion signal found (default include)"
   },
   {
+    "company": "Unknown company",
+    "title": "Full-Stack developer",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
     "company": "NetConnect  AS",
     "title": "Senior Full Stack Developer - Node.js/React.js",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "Ellucian",
-    "title": "Lead Software Engineer - Fullstack(ReactJS, AWS, Javascript, Typescript, CI/CD)",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Qualcomm",
-    "title": "Full Stack Software Engineer, Staff",
+    "company": "Infosys",
+    "title": "Fullstack (React JS + Node JS) Developer",
     "pass": true,
     "reason": "known large company"
   },
   {
-    "company": "Infosys",
-    "title": "Fullstack (React JS + Node JS) Developer",
+    "company": "Qualcomm",
+    "title": "Full Stack Software Engineer, Staff",
     "pass": true,
     "reason": "known large company"
   },
@@ -222,14 +216,14 @@
     "reason": "known large company"
   },
   {
-    "company": "Capco",
-    "title": "Senior Technology Delivery - Full-Stack Developer (MERN)",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
+    "company": "Catalysts",
+    "title": "Full-Stack Software Engineer – React, Node.js, TypeScript & AWS",
+    "pass": false,
+    "reason": "companySizeRaw=85"
   },
   {
-    "company": "Ascendion",
-    "title": "Node JS Full Stack Lead Developer",
+    "company": "7-Eleven Global Solution Center – India",
+    "title": "Software Engineer II",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
@@ -240,26 +234,14 @@
     "reason": "companySizeRaw=12"
   },
   {
-    "company": "7-Eleven Global Solution Center – India",
-    "title": "Software Engineer II",
+    "company": "UST",
+    "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "AppBroda",
-    "title": "SDE 2- Full Stack Developer",
-    "pass": false,
-    "reason": "companySizeRaw=34"
-  },
-  {
-    "company": "HuntingCube",
-    "title": "Lead Backend Engineer - SDE 3",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Synechron",
-    "title": "Full Stack Developer – Node.js, React.js, TypeScript & AI Code Generation",
+    "company": "Workfall",
+    "title": "MERN Full Stack Developer",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
@@ -270,8 +252,20 @@
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "HuntingCube",
-    "title": "MERN Stack Developer (Front End)",
+    "company": "AppBroda",
+    "title": "SDE 2- Full Stack Developer",
+    "pass": false,
+    "reason": "companySizeRaw=34"
+  },
+  {
+    "company": "Capco",
+    "title": "Senior Technology Delivery - Full-Stack Developer (MERN)",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Synechron",
+    "title": "Full Stack Developer – Node.js, React.js, TypeScript & AI Code Generation",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
@@ -282,14 +276,26 @@
     "reason": "no exclusion signal found (default include)"
   },
   {
+    "company": "HuntingCube",
+    "title": "Lead Backend Engineer - SDE 3",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
     "company": "Infosys",
     "title": "MERN Stack Developer",
     "pass": true,
     "reason": "known large company"
   },
   {
-    "company": "UST",
-    "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
+    "company": "Okta",
+    "title": "Senior Fullstack Engineer [ Node.js Heavy + React ]",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "HuntingCube",
+    "title": "MERN Stack Developer (Front End)",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
@@ -318,82 +324,22 @@
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "Food Galery Limited",
-    "title": "iOS App Developer",
-    "pass": false,
-    "reason": "companySizeRaw=2"
-  },
-  {
-    "company": "UST",
-    "title": "Developer II - Embedded Software",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Corp Placements",
-    "title": "Embedded Engineer",
-    "pass": false,
-    "reason": "companySizeRaw=19"
-  },
-  {
-    "company": "Barracuda",
-    "title": "Software Engineer I (C/C++ and Networking)",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Blackhawk Network India",
-    "title": "Software Engineer",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Honeywell Technologies",
-    "title": "Software Engr I",
-    "pass": true,
-    "reason": "known large company"
-  },
-  {
-    "company": "Accenture in India",
-    "title": "AI/ML Computational Science Associate",
-    "pass": true,
-    "reason": "known large company"
-  },
-  {
-    "company": "Google",
-    "title": "Software Engineer, Search",
-    "pass": true,
-    "reason": "known large company"
-  },
-  {
-    "company": "Proxima Skills Academy",
-    "title": "Software Engineer",
-    "pass": false,
-    "reason": "companySizeRaw=29"
-  },
-  {
-    "company": "Amazon",
-    "title": "Software Devlopment Engineer I, Amazon Rewards",
-    "pass": true,
-    "reason": "known large company"
-  },
-  {
-    "company": "Cisco",
-    "title": "Software Engineer",
-    "pass": true,
-    "reason": "known large company"
-  },
-  {
     "company": "Qualcomm",
     "title": "CPU Performance Associate Engineer",
     "pass": true,
     "reason": "known large company"
   },
   {
-    "company": "Tesco Bengaluru",
-    "title": "Associate-Digital Transformation",
+    "company": "Harmonic",
+    "title": "Junior C++ Engineer",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Target",
+    "title": "Apprentice - Technology",
+    "pass": true,
+    "reason": "known large company"
   },
   {
     "company": "Tesco Business Solutions",
@@ -402,8 +348,68 @@
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "Cisco",
-    "title": "Software  Engineer",
+    "company": "Tesco Bengaluru",
+    "title": "Associate-Digital Transformation",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Barracuda",
+    "title": "Software Engineer I (C/C++ and Networking)",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Zimmer Biomet",
+    "title": "Web Developer (Java)",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Amazon",
+    "title": "Software Development Engineer I, FinOps FP&A",
+    "pass": true,
+    "reason": "known large company"
+  },
+  {
+    "company": "Kuku",
+    "title": "Management Trainee - Fullstack",
+    "pass": false,
+    "reason": "startup signal term: \"fast-paced startup\""
+  },
+  {
+    "company": "Honeywell Technologies",
+    "title": "Software Engr I",
+    "pass": true,
+    "reason": "known large company"
+  },
+  {
+    "company": "Infosys",
+    "title": "Python Developer",
+    "pass": true,
+    "reason": "known large company"
+  },
+  {
+    "company": "BT Group",
+    "title": "Associate engineer",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Finominal",
+    "title": "Junior Backend Software Engineer",
+    "pass": false,
+    "reason": "companySizeRaw=20"
+  },
+  {
+    "company": "Blackhawk Network India",
+    "title": "Software Engineer",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "American Express",
+    "title": "Software Engineer I",
     "pass": true,
     "reason": "known large company"
   },
@@ -414,20 +420,26 @@
     "reason": "companySizeRaw=22"
   },
   {
-    "company": "Infineon Technologies",
-    "title": "Young Graduate Trainee",
+    "company": "Cisco",
+    "title": "Software  Engineer",
+    "pass": true,
+    "reason": "known large company"
+  },
+  {
+    "company": "Stellantis",
+    "title": "Engineer",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "Narayana Health",
-    "title": "Junior Full Stack Developer",
+    "company": "Google",
+    "title": "Software Engineer, Search",
     "pass": true,
-    "reason": "no exclusion signal found (default include)"
+    "reason": "known large company"
   },
   {
-    "company": "Dexcom",
-    "title": "SW Development Engineer 1 - Android",
+    "company": "Unknown company",
+    "title": "Software Engineer Fresher",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
@@ -462,98 +474,110 @@
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "Unknown company",
-    "title": "Software Engineer, developer / Programmer, 2026 graduate Can apply",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Deloitte",
-    "title": "Microservices JAVA-Software Engineer II",
+    "company": "Honeywell Technologies",
+    "title": "Advanced Software Engr",
     "pass": true,
     "reason": "known large company"
   },
   {
-    "company": "GE Vernova",
-    "title": "Software Engineer - Backend",
+    "company": "Dexcom",
+    "title": "Software Development Engineer 2",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "Amazon Music",
-    "title": "Software Development Engineer, Amazon Music",
-    "pass": true,
-    "reason": "known large company"
-  },
-  {
-    "company": "Tata Consultancy Services",
-    "title": "Java Software Engineer",
-    "pass": true,
-    "reason": "known large company"
-  },
-  {
-    "company": "Standard Chartered India",
-    "title": "Development Engineer",
-    "pass": true,
-    "reason": "known large company"
-  },
-  {
-    "company": "BNP Paribas",
-    "title": "Java Developer",
+    "company": "Infinite Computer Solutions",
+    "title": "Software Engineer",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "UST",
-    "title": ".NET Developer",
+    "company": "NewSpace Research and Technologies",
+    "title": "Engineer II - Software",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "Cisco",
-    "title": "Software Engineer - Golang, AWS, Microservices, K8's - 4 to 7 Years - Bangalore",
+    "company": "Ring",
+    "title": "Software Development Engineer, Sidewalk Cloud, Sidewalk Cloud",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Experity",
+    "title": "Software Engineer II, Java Platform",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Cvent",
+    "title": "Software Engineer II - AI",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "CLO Virtual Fashion",
+    "title": "Back-end Developer",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Mopid",
+    "title": "Founding Backend Engineer",
+    "pass": false,
+    "reason": "companySizeRaw=34"
+  },
+  {
+    "company": "Flipkart",
+    "title": "Software Engineer",
     "pass": true,
     "reason": "known large company"
   },
   {
     "company": "Amazon",
-    "title": "Software Dev Engineer II, Paragon Workbench",
+    "title": "Software Development Engineer II",
     "pass": true,
     "reason": "known large company"
   },
   {
-    "company": "JPMorganChase",
-    "title": "Software Engineer III - Java AWS",
+    "company": "Amazon",
+    "title": "SDE2",
     "pass": true,
     "reason": "known large company"
   },
   {
-    "company": "JPMorganChase",
-    "title": "Software Engineer III - Java Full Stack, AWS",
-    "pass": true,
-    "reason": "known large company"
+    "company": "Scoutit",
+    "title": "Software Engineer",
+    "pass": false,
+    "reason": "companySizeRaw=16"
   },
   {
-    "company": "SCIENTIFIC GAMES",
-    "title": "Software Engineer - Java Developer",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "SIXT Research & Development India",
-    "title": "Software Development Engineer III (Java Backend)",
+    "company": "Zadara",
+    "title": "Software Engineer",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "SIXT Research & Development India",
-    "title": "Software Development Engineer II (Java Backend)",
+    "company": "Weekday AI (YC W21)",
+    "title": "Backend Engineer",
+    "pass": false,
+    "reason": "companySizeRaw=63"
+  },
+  {
+    "company": "Coram AI",
+    "title": "Backend Engineer",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
   {
-    "company": "EPAM Systems",
-    "title": "Senior Software Engineer - Java",
+    "company": "Cargill",
+    "title": "software engineer - ANH",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "The Walt Disney Company",
+    "title": "Software Engineer",
     "pass": true,
     "reason": "known large company"
   },
@@ -564,38 +588,20 @@
     "reason": "known large company"
   },
   {
-    "company": "SCIENTIFIC GAMES",
-    "title": "Senior Software Engineer - Java Developer",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Wells Fargo",
-    "title": "Software Engineer - .Net/SQL",
+    "company": "Accenture in India",
+    "title": "Custom Software Engineer",
     "pass": true,
     "reason": "known large company"
-  },
-  {
-    "company": "EPAM Systems",
-    "title": "Software Engineer - Java",
-    "pass": true,
-    "reason": "known large company"
-  },
-  {
-    "company": "Unknown company",
-    "title": "Software Development Engineer",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
-  },
-  {
-    "company": "Unknown company",
-    "title": "Software Development Engineer-AI/ML",
-    "pass": true,
-    "reason": "no exclusion signal found (default include)"
   },
   {
     "company": "Unknown company",
     "title": "Software Development Engineer - Python Automation & Networking",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Unknown company",
+    "title": "Software Development Engineer",
     "pass": true,
     "reason": "no exclusion signal found (default include)"
   },
@@ -606,10 +612,28 @@
     "reason": "no exclusion signal found (default include)"
   },
   {
+    "company": "Unknown company",
+    "title": "Software Development Engineer-AI/ML",
+    "pass": true,
+    "reason": "no exclusion signal found (default include)"
+  },
+  {
+    "company": "Azuga, Inc.",
+    "title": "Fullstack Python Engineer",
+    "pass": false,
+    "reason": "passed size filter but fitScore=32 < 50"
+  },
+  {
+    "company": "Luxoft",
+    "title": "Senior Full Stack Developer (Angular, Node)",
+    "pass": false,
+    "reason": "passed size filter but fitScore=0 < 50"
+  },
+  {
     "company": "AutoRABIT",
     "title": "Full Stack Developer",
     "pass": false,
-    "reason": "passed size filter but fitScore=26 < 50"
+    "reason": "passed size filter but fitScore=46 < 50"
   },
   {
     "company": "Energy Exemplar",
@@ -618,16 +642,10 @@
     "reason": "passed size filter but fitScore=6 < 50"
   },
   {
-    "company": "Synechron",
-    "title": ".NET Full Stack Engineer – C#, React/Angular, AWS & CI/CD",
+    "company": "Bridgestone Americas",
+    "title": "Senior System Engineer(Fullstack Developer)",
     "pass": false,
     "reason": "passed size filter but fitScore=0 < 50"
-  },
-  {
-    "company": "CGI",
-    "title": "Senior Software Engineer - Java full stack Developer - 6 to 9 years exp",
-    "pass": false,
-    "reason": "passed size filter but fitScore=11 < 50"
   },
   {
     "company": "Eurofins",
@@ -642,46 +660,22 @@
     "reason": "passed size filter but fitScore=42 < 50"
   },
   {
-    "company": "Luxoft",
-    "title": "Senior Full Stack Developer (Angular, Node)",
-    "pass": false,
-    "reason": "passed size filter but fitScore=0 < 50"
-  },
-  {
     "company": "Eurofins",
     "title": "Fullstack Developer (.Net+Angular)",
     "pass": false,
     "reason": "passed size filter but fitScore=34 < 50"
   },
   {
-    "company": "Tata Consultancy Services",
-    "title": "Java Full Stack Developer+ Angular",
+    "company": "VRIZE",
+    "title": "Fullstack Developer (.NET + React)",
     "pass": false,
-    "reason": "passed size filter but fitScore=0 < 50"
-  },
-  {
-    "company": "Infosys",
-    "title": ".Net Full Stack Gen AI Developer",
-    "pass": false,
-    "reason": "passed size filter but fitScore=39 < 50"
+    "reason": "passed size filter but fitScore=36 < 50"
   },
   {
     "company": "CGI",
     "title": "Senior Software Engineer - Dot Net Full stack Developer",
     "pass": false,
     "reason": "passed size filter but fitScore=10 < 50"
-  },
-  {
-    "company": "Artech L.L.C.",
-    "title": "Full Stack Engineer (MERN developer)",
-    "pass": false,
-    "reason": "passed size filter but fitScore=43 < 50"
-  },
-  {
-    "company": "VRIZE",
-    "title": "Fullstack Developer (.NET + React)",
-    "pass": false,
-    "reason": "passed size filter but fitScore=36 < 50"
   },
   {
     "company": "Unknown company",
@@ -697,21 +691,27 @@
   },
   {
     "company": "Unknown company",
-    "title": "Full-Stack developer",
+    "title": "Blockchain Full stack developer",
     "pass": false,
-    "reason": "passed size filter but fitScore=33 < 50"
+    "reason": "passed size filter but fitScore=6 < 50"
+  },
+  {
+    "company": "Unknown company",
+    "title": "AI-First Full Stack Developer",
+    "pass": false,
+    "reason": "passed size filter but fitScore=0 < 50"
+  },
+  {
+    "company": "Unknown company",
+    "title": "Urgent Hiring - Full Stack Developer - Multiple Openings",
+    "pass": false,
+    "reason": "passed size filter but fitScore=0 < 50"
   },
   {
     "company": "Unknown company",
     "title": "Node Full Stack Developer",
     "pass": false,
     "reason": "passed size filter but fitScore=9 < 50"
-  },
-  {
-    "company": "Unknown company",
-    "title": "AWS Full Stack Developer",
-    "pass": false,
-    "reason": "passed size filter but fitScore=0 < 50"
   },
   {
     "company": "Unknown company",
@@ -727,7 +727,7 @@
   },
   {
     "company": "Unknown company",
-    "title": "Full stack Developer (ReactJS+Node JS) Saturday 5th Sept,26",
+    "title": "Facets Full Stack Developer - 7+ Years - Multiple locations",
     "pass": false,
     "reason": "passed size filter but fitScore=0 < 50"
   },
@@ -738,10 +738,10 @@
     "reason": "passed size filter but fitScore=18 < 50"
   },
   {
-    "company": "Ellucian",
-    "title": "Lead Software Engineer - Fullstack(ReactJS, AWS, Javascript, Typescript, CI/CD)",
+    "company": "Unknown company",
+    "title": "Full-Stack developer",
     "pass": false,
-    "reason": "passed size filter but fitScore=21 < 50"
+    "reason": "passed size filter but fitScore=33 < 50"
   },
   {
     "company": "American Express Global Business Travel",
@@ -750,16 +750,10 @@
     "reason": "passed size filter but fitScore=3 < 50"
   },
   {
-    "company": "Capco",
-    "title": "Senior Technology Delivery - Full-Stack Developer (MERN)",
+    "company": "UST",
+    "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
     "pass": false,
-    "reason": "passed size filter but fitScore=13 < 50"
-  },
-  {
-    "company": "Ascendion",
-    "title": "Node JS Full Stack Lead Developer",
-    "pass": false,
-    "reason": "passed size filter but fitScore=0 < 50"
+    "reason": "passed size filter but fitScore=27 < 50"
   },
   {
     "company": "Okta",
@@ -768,10 +762,16 @@
     "reason": "passed size filter but fitScore=9 < 50"
   },
   {
-    "company": "UST",
-    "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
+    "company": "Capco",
+    "title": "Senior Technology Delivery - Full-Stack Developer (MERN)",
     "pass": false,
-    "reason": "passed size filter but fitScore=27 < 50"
+    "reason": "passed size filter but fitScore=13 < 50"
+  },
+  {
+    "company": "Okta",
+    "title": "Senior Fullstack Engineer [ Node.js Heavy + React ]",
+    "pass": false,
+    "reason": "passed size filter but fitScore=9 < 50"
   },
   {
     "company": "Unknown company",
@@ -792,64 +792,22 @@
     "reason": "passed size filter but fitScore=47 < 50"
   },
   {
-    "company": "UST",
-    "title": "Developer II - Embedded Software",
-    "pass": false,
-    "reason": "passed size filter but fitScore=15 < 50"
-  },
-  {
-    "company": "Barracuda",
-    "title": "Software Engineer I (C/C++ and Networking)",
-    "pass": false,
-    "reason": "passed size filter but fitScore=40 < 50"
-  },
-  {
-    "company": "Blackhawk Network India",
-    "title": "Software Engineer",
-    "pass": false,
-    "reason": "passed size filter but fitScore=19 < 50"
-  },
-  {
-    "company": "Honeywell Technologies",
-    "title": "Software Engr I",
-    "pass": false,
-    "reason": "passed size filter but fitScore=46 < 50"
-  },
-  {
-    "company": "Accenture in India",
-    "title": "AI/ML Computational Science Associate",
-    "pass": false,
-    "reason": "passed size filter but fitScore=33 < 50"
-  },
-  {
-    "company": "Google",
-    "title": "Software Engineer, Search",
-    "pass": false,
-    "reason": "passed size filter but fitScore=25 < 50"
-  },
-  {
-    "company": "Amazon",
-    "title": "Software Devlopment Engineer I, Amazon Rewards",
-    "pass": false,
-    "reason": "passed size filter but fitScore=10 < 50"
-  },
-  {
-    "company": "Cisco",
-    "title": "Software Engineer",
-    "pass": false,
-    "reason": "passed size filter but fitScore=15 < 50"
-  },
-  {
     "company": "Qualcomm",
     "title": "CPU Performance Associate Engineer",
     "pass": false,
     "reason": "passed size filter but fitScore=15 < 50"
   },
   {
-    "company": "Tesco Bengaluru",
-    "title": "Associate-Digital Transformation",
+    "company": "Harmonic",
+    "title": "Junior C++ Engineer",
     "pass": false,
-    "reason": "passed size filter but fitScore=45 < 50"
+    "reason": "passed size filter but fitScore=18 < 50"
+  },
+  {
+    "company": "Target",
+    "title": "Apprentice - Technology",
+    "pass": false,
+    "reason": "passed size filter but fitScore=21 < 50"
   },
   {
     "company": "Tesco Business Solutions",
@@ -858,22 +816,76 @@
     "reason": "passed size filter but fitScore=45 < 50"
   },
   {
+    "company": "Tesco Bengaluru",
+    "title": "Associate-Digital Transformation",
+    "pass": false,
+    "reason": "passed size filter but fitScore=45 < 50"
+  },
+  {
+    "company": "Barracuda",
+    "title": "Software Engineer I (C/C++ and Networking)",
+    "pass": false,
+    "reason": "passed size filter but fitScore=40 < 50"
+  },
+  {
+    "company": "Zimmer Biomet",
+    "title": "Web Developer (Java)",
+    "pass": false,
+    "reason": "passed size filter but fitScore=21 < 50"
+  },
+  {
+    "company": "Amazon",
+    "title": "Software Development Engineer I, FinOps FP&A",
+    "pass": false,
+    "reason": "passed size filter but fitScore=16 < 50"
+  },
+  {
+    "company": "Honeywell Technologies",
+    "title": "Software Engr I",
+    "pass": false,
+    "reason": "passed size filter but fitScore=46 < 50"
+  },
+  {
+    "company": "Infosys",
+    "title": "Python Developer",
+    "pass": false,
+    "reason": "passed size filter but fitScore=15 < 50"
+  },
+  {
+    "company": "BT Group",
+    "title": "Associate engineer",
+    "pass": false,
+    "reason": "passed size filter but fitScore=41 < 50"
+  },
+  {
+    "company": "Blackhawk Network India",
+    "title": "Software Engineer",
+    "pass": false,
+    "reason": "passed size filter but fitScore=19 < 50"
+  },
+  {
     "company": "Cisco",
     "title": "Software  Engineer",
     "pass": false,
     "reason": "passed size filter but fitScore=48 < 50"
   },
   {
-    "company": "Infineon Technologies",
-    "title": "Young Graduate Trainee",
+    "company": "Stellantis",
+    "title": "Engineer",
     "pass": false,
     "reason": "passed size filter but fitScore=15 < 50"
   },
   {
-    "company": "Dexcom",
-    "title": "SW Development Engineer 1 - Android",
+    "company": "Google",
+    "title": "Software Engineer, Search",
     "pass": false,
-    "reason": "passed size filter but fitScore=42 < 50"
+    "reason": "passed size filter but fitScore=25 < 50"
+  },
+  {
+    "company": "Unknown company",
+    "title": "Software Engineer Fresher",
+    "pass": false,
+    "reason": "passed size filter but fitScore=15 < 50"
   },
   {
     "company": "Unknown company",
@@ -906,100 +918,94 @@
     "reason": "passed size filter but fitScore=3 < 50"
   },
   {
-    "company": "Unknown company",
-    "title": "Software Engineer, developer / Programmer, 2026 graduate Can apply",
-    "pass": false,
-    "reason": "passed size filter but fitScore=0 < 50"
-  },
-  {
-    "company": "Deloitte",
-    "title": "Microservices JAVA-Software Engineer II",
-    "pass": false,
-    "reason": "passed size filter but fitScore=22 < 50"
-  },
-  {
-    "company": "GE Vernova",
-    "title": "Software Engineer - Backend",
-    "pass": false,
-    "reason": "passed size filter but fitScore=48 < 50"
-  },
-  {
-    "company": "Amazon Music",
-    "title": "Software Development Engineer, Amazon Music",
-    "pass": false,
-    "reason": "passed size filter but fitScore=0 < 50"
-  },
-  {
-    "company": "Tata Consultancy Services",
-    "title": "Java Software Engineer",
-    "pass": false,
-    "reason": "passed size filter but fitScore=0 < 50"
-  },
-  {
-    "company": "Standard Chartered India",
-    "title": "Development Engineer",
-    "pass": false,
-    "reason": "passed size filter but fitScore=21 < 50"
-  },
-  {
-    "company": "BNP Paribas",
-    "title": "Java Developer",
-    "pass": false,
-    "reason": "passed size filter but fitScore=8 < 50"
-  },
-  {
-    "company": "UST",
-    "title": ".NET Developer",
-    "pass": false,
-    "reason": "passed size filter but fitScore=0 < 50"
-  },
-  {
-    "company": "Cisco",
-    "title": "Software Engineer - Golang, AWS, Microservices, K8's - 4 to 7 Years - Bangalore",
+    "company": "Honeywell Technologies",
+    "title": "Advanced Software Engr",
     "pass": false,
     "reason": "passed size filter but fitScore=15 < 50"
   },
   {
-    "company": "Amazon",
-    "title": "Software Dev Engineer II, Paragon Workbench",
+    "company": "Dexcom",
+    "title": "Software Development Engineer 2",
+    "pass": false,
+    "reason": "passed size filter but fitScore=18 < 50"
+  },
+  {
+    "company": "Infinite Computer Solutions",
+    "title": "Software Engineer",
     "pass": false,
     "reason": "passed size filter but fitScore=0 < 50"
   },
   {
-    "company": "JPMorganChase",
-    "title": "Software Engineer III - Java AWS",
-    "pass": false,
-    "reason": "passed size filter but fitScore=13 < 50"
-  },
-  {
-    "company": "JPMorganChase",
-    "title": "Software Engineer III - Java Full Stack, AWS",
-    "pass": false,
-    "reason": "passed size filter but fitScore=31 < 50"
-  },
-  {
-    "company": "SCIENTIFIC GAMES",
-    "title": "Software Engineer - Java Developer",
-    "pass": false,
-    "reason": "passed size filter but fitScore=15 < 50"
-  },
-  {
-    "company": "SIXT Research & Development India",
-    "title": "Software Development Engineer III (Java Backend)",
+    "company": "NewSpace Research and Technologies",
+    "title": "Engineer II - Software",
     "pass": false,
     "reason": "passed size filter but fitScore=0 < 50"
   },
   {
-    "company": "SIXT Research & Development India",
-    "title": "Software Development Engineer II (Java Backend)",
+    "company": "Ring",
+    "title": "Software Development Engineer, Sidewalk Cloud, Sidewalk Cloud",
     "pass": false,
     "reason": "passed size filter but fitScore=12 < 50"
   },
   {
-    "company": "EPAM Systems",
-    "title": "Senior Software Engineer - Java",
+    "company": "Experity",
+    "title": "Software Engineer II, Java Platform",
     "pass": false,
-    "reason": "passed size filter but fitScore=6 < 50"
+    "reason": "passed size filter but fitScore=21 < 50"
+  },
+  {
+    "company": "Cvent",
+    "title": "Software Engineer II - AI",
+    "pass": false,
+    "reason": "passed size filter but fitScore=13 < 50"
+  },
+  {
+    "company": "CLO Virtual Fashion",
+    "title": "Back-end Developer",
+    "pass": false,
+    "reason": "passed size filter but fitScore=42 < 50"
+  },
+  {
+    "company": "Flipkart",
+    "title": "Software Engineer",
+    "pass": false,
+    "reason": "passed size filter but fitScore=0 < 50"
+  },
+  {
+    "company": "Amazon",
+    "title": "Software Development Engineer II",
+    "pass": false,
+    "reason": "passed size filter but fitScore=0 < 50"
+  },
+  {
+    "company": "Amazon",
+    "title": "SDE2",
+    "pass": false,
+    "reason": "passed size filter but fitScore=0 < 50"
+  },
+  {
+    "company": "Zadara",
+    "title": "Software Engineer",
+    "pass": false,
+    "reason": "passed size filter but fitScore=4 < 50"
+  },
+  {
+    "company": "Coram AI",
+    "title": "Backend Engineer",
+    "pass": false,
+    "reason": "passed size filter but fitScore=23 < 50"
+  },
+  {
+    "company": "Cargill",
+    "title": "software engineer - ANH",
+    "pass": false,
+    "reason": "passed size filter but fitScore=15 < 50"
+  },
+  {
+    "company": "The Walt Disney Company",
+    "title": "Software Engineer",
+    "pass": false,
+    "reason": "passed size filter but fitScore=15 < 50"
   },
   {
     "company": "Walmart Global Tech India",
@@ -1008,26 +1014,8 @@
     "reason": "passed size filter but fitScore=30 < 50"
   },
   {
-    "company": "SCIENTIFIC GAMES",
-    "title": "Senior Software Engineer - Java Developer",
-    "pass": false,
-    "reason": "passed size filter but fitScore=0 < 50"
-  },
-  {
-    "company": "Wells Fargo",
-    "title": "Software Engineer - .Net/SQL",
-    "pass": false,
-    "reason": "passed size filter but fitScore=14 < 50"
-  },
-  {
-    "company": "Unknown company",
-    "title": "Software Development Engineer",
-    "pass": false,
-    "reason": "passed size filter but fitScore=0 < 50"
-  },
-  {
-    "company": "Unknown company",
-    "title": "Software Development Engineer-AI/ML",
+    "company": "Accenture in India",
+    "title": "Custom Software Engineer",
     "pass": false,
     "reason": "passed size filter but fitScore=0 < 50"
   },
@@ -1039,7 +1027,19 @@
   },
   {
     "company": "Unknown company",
+    "title": "Software Development Engineer",
+    "pass": false,
+    "reason": "passed size filter but fitScore=0 < 50"
+  },
+  {
+    "company": "Unknown company",
     "title": "Software Development Engineer (Contractual)",
+    "pass": false,
+    "reason": "passed size filter but fitScore=0 < 50"
+  },
+  {
+    "company": "Unknown company",
+    "title": "Software Development Engineer-AI/ML",
     "pass": false,
     "reason": "passed size filter but fitScore=0 < 50"
   }
